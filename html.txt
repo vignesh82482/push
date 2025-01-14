@@ -2,4 +2,4 @@ hello html
 
 hello css
 
-hi js
+hi javascript
